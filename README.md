@@ -7,6 +7,12 @@ is identical to the official web dashboard by construction — chat, sessions,
 files, models, logs, cron, skills, plugins, MCP, channels, webhooks, pairing,
 profiles, config, keys, system.
 
+## Download
+
+Prebuilt **Linux x64** zip on the [Releases page](https://github.com/PatrickNoFilter/hermes-web/releases):
+unzip it and run `./hermes-web`. The `hermes` CLI must be installed on the
+machine — the app starts (or reuses) the official dashboard server.
+
 ## Run
 
 - App menu: **Hermes Web** (`~/.local/share/applications/hermes-web.desktop`)
