@@ -1,0 +1,1 @@
+{"name": "hermes-web", "productName": "Hermes Web", "version": "1.0.0", "description": "Standalone desktop app for the official Hermes Web Dashboard (same backend, same UI).", "main": "main.js", "scripts": {"start": "electron ."}, "author": "local", "license": "MIT", "devDependencies": {"electron": "^39.0.0"}}
